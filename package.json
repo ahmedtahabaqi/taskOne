@@ -1,0 +1,18 @@
+{
+  "name": "js",
+  "version": "1.0.0",
+  "description": "to start",
+  "main": "app.js",
+  "scripts": {
+    "test": "start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "myproject"
+  },
+  "keywords": [
+    "hash"
+  ],
+  "author": "ahmed taha",
+  "license": "ISC"
+}
